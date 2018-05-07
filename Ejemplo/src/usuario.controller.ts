@@ -10,7 +10,7 @@ export class UsuarioController{
     };
     usuarios = [];
     @Get('mostrar')
-    @HttpCode(204)
+    @HttpCode(202)
     mostrarUsuario(/*@Req () request, @Res () response*/) {
         return (this.usuario);
 
