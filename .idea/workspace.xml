@@ -37,8 +37,8 @@
       <file leaf-file-name="usuario.controller.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ejemplo/src/usuario.controller.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="376">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -88,8 +88,8 @@
     <handled-path value="$PROJECT_DIR$/Ejemplo/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="235" />
-    <option name="y" value="37" />
+    <option name="x" value="409" />
+    <option name="y" value="101" />
     <option name="width" value="1654" />
     <option name="height" value="1162" />
   </component>
@@ -165,15 +165,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525703474520</updated>
-      <workItem from="1525703475963" duration="4191000" />
+      <workItem from="1525703475963" duration="4939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4191000" />
+    <option name="totallyTimeSpent" value="4939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="235" y="37" width="1654" height="1162" extended-state="0" />
+    <frame x="409" y="101" width="1654" height="1162" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496977" />
@@ -228,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ejemplo/src/usuario.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="376">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>
